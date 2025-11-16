@@ -120,12 +120,6 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-
-<!-- ⭐ YOUR COMPLETE BADGE LIST (UNCHANGED) -->
-(keep your full stack here exactly as before — unchanged)
-
-</details>
-
 ---
 
 # 📊 GitHub Analytics
