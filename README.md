@@ -170,10 +170,14 @@ I enjoy:
 - learning across stacks  
 
 ### 🎯 Long-Term Goals  
-- become multilingual in coding  
-- create clean, scalable software  
-- improve daily  
-- stay consistent  
+### 🎯 Long-Term Goals  
+- Master Machine Learning fundamentals  
+- Create ML-powered mini projects  
+- Become fluent across multiple languages  
+- Build clean, scalable software  
+- Improve daily through constant learning  
+- Stay consistent and disciplined  
+
 
 ---
 
