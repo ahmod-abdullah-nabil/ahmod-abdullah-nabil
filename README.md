@@ -6,7 +6,7 @@
 
 # 👋 Hey, I'm <strong>Ahmod Abdullah</strong>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" width="350" />
 
 <br>
 
