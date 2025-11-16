@@ -195,8 +195,13 @@ I enjoy:
 
 ---
 
-# ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center">
+
+### ✍️ Random Dev Quote  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+
+</div>
+
 
 ---
 
