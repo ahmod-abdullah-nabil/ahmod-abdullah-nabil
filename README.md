@@ -6,12 +6,12 @@
 
 # 👋 Hey, I'm <strong>Ahmod Abdullah</strong>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" width="350" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" />
 
 <br>
 
 <!-- Aesthetic GIF -->
-<img src="https://media.discordapp.net/attachments/1242815075291627634/1439672710690111588/1_wNGxHlTCsH9zU90WDouoDQ.gif?ex=691b5f32&is=691a0db2&hm=d2698a8f2399b7e17a0b3d94cba74f7cf6dbd5fa78de7c66e5dcfb9e18a0791d&=&width=736&height=552" />
+<img src="https://media.discordapp.net/attachments/1242815075291627634/1439672710690111588/1_wNGxHlTCsH9zU90WDouoDQ.gif?ex=691b5f32&is=691a0db2&hm=d2698a8f2399b7e17a0b3d94cba74f7cf6dbd5fa78de7c66e5dcfb9e18a0791d&=&width=736&height=552" width="350"  />
 
 <br><br>
 
