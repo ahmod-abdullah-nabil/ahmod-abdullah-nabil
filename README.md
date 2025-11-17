@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                  TRUE HYBRID MASTER README                -->
+<!--                  PROFILE README                -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -170,7 +170,7 @@ I enjoy:
 - improving workflows  
 - learning across stacks  
 
-### 🎯 Long-Term Goals  
+
 ### 🎯 Long-Term Goals  
 - Master Machine Learning fundamentals  
 - Create ML-powered mini projects  
@@ -183,7 +183,7 @@ I enjoy:
 ---
 
 # 🌐 Connect With Me  
-### ✔ All Social Platforms (full badge set)
+### ✔ All Social Platforms 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/abdullah.ahmod.nabil)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ahmod_abdullah_nabil)
