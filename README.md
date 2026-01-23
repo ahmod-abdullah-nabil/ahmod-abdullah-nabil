@@ -144,10 +144,10 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 <div align="center">
 
 ### 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=ahmod-abdullah-nabil&margin-w=4&theme=flat&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmod-abdullah-nabil&margin-w=15&theme=flat&no-frame=true&column=7" />
 
 ### 🔝 Top Contributed Repositories  
-<img src="https://github-contributor-stats.vercel.app/api?username=ahmod-abdullah-nabil&limit=5&combine_all_yearly_contributions=true&theme=default" />
+<img src="https://github-contributor-stats.vercel.app/api?username=ahmod-abdullah-nabil&limit=5&theme=default&combine_all_yearly_contributions=true" />
 
 </div>
 
