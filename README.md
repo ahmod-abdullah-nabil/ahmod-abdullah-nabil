@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 👋 Hey, I'm <strong>Ahmod Abdullah</strong>
+# Ahmod Abdullah
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" alt="Typing intro" />
 
 <br>
 
@@ -26,39 +26,39 @@
 
 <br><br>
 
-<strong>Learning by building - real projects, real mistakes, real progress.</strong><br>
-Clean code, simple design, strong fundamentals - every single day.
+<strong>Learning by building real projects and improving through practice.</strong><br>
+Clean code, simple design, and strong fundamentals every day.
 
 </div>
 
 ---
 
-# 🧩 Who I Am
+# Who I Am
 
-I'm a practical, hands-on developer who learns through real projects.  
-I love clean UI, structured code, and minimal workflows.
-
----
-
-# 🔥 What I'm Doing Right Now
-
-- 🧠 Strengthening fundamentals  
-- 🤖 Learning Machine Learning (ML) step-by-step  
-- 💻 Building real practical projects  
-- 🧰 Experimenting with compilers and dev setups  
-- 🎨 Learning minimal UI/UX  
-- ⚙️ Improving productivity workflows  
-- 🌍 Exploring web, ML, and desktop development  
-- 📈 Growing through daily coding
+I'm a practical developer who learns through real projects.  
+I value clean UI, structured code, and efficient workflows.
 
 ---
 
-# 🛠 Core Skills & Tools
+# What I'm Doing Right Now
 
-### 💬 Languages  
+- Strengthening fundamentals  
+- Learning machine learning step by step  
+- Building practical projects  
+- Experimenting with compilers and development setups  
+- Refining UI and UX principles  
+- Improving productivity workflows  
+- Exploring web, ML, and desktop development  
+- Growing through daily coding
+
+---
+
+# Core Skills & Tools
+
+### Languages  
 C · C++ · Python · Java · C# · JavaScript · TypeScript · PHP · HTML · CSS
 
-### 🤖 Machine Learning  
+### Machine Learning  
 Basics of:  
 - PyTorch  
 - TensorFlow  
@@ -66,18 +66,18 @@ Basics of:
 - NumPy & Pandas  
 - Data Preprocessing
 
-### 🧰 Tools  
+### Tools  
 VS Code · Visual Studio · Git · Docker · MSYS2
 
-### ☁️ Cloud  
+### Cloud  
 AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 ---
 
-# 💻 Full Tech Stack
+# Full Tech Stack
 
 <details>
-<summary><b>Click to expand full badge collection</b> 🔽</summary>
+<summary><b>Click to expand full badge collection</b></summary>
 <br>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -117,13 +117,19 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=ahmod-abdullah-nabil&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=default&hide_border=true" />
+<a href="https://github.com/ahmod-abdullah-nabil">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=default&hide_border=true" alt="Ahmod Abdullah GitHub stats" />
+</a>
+<a href="https://github.com/ahmod-abdullah-nabil">
+  <img height="165" src="https://streak-stats.demolab.com/?user=ahmod-abdullah-nabil&theme=default&hide_border=true" alt="Ahmod Abdullah streak stats" />
+</a>
+<a href="https://github.com/ahmod-abdullah-nabil">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=default&hide_border=true" alt="Ahmod Abdullah top languages" />
+</a>
 
 </div>
 
@@ -131,37 +137,37 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 <div align="center">
 
-### 📊 GitHub Profile Summary  
+### GitHub Profile Summary  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmod-abdullah-nabil&theme=default" alt="Profile Summary" />
 </p>
 
-### 📈 Contribution Activity Graph  
+### Contribution Activity Graph  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmod-abdullah-nabil&theme=github-compact&hide_border=true)](https://github.com/ahmod-abdullah-nabil)
 
 </div>
 
 ---
 
-# 💫 More About Me
+# More About Me
 
-👋 I'm Ahmod - a developer who learns by doing.  
+I'm Ahmod, a developer who learns by doing.  
 I enjoy:
 
-- minimal design  
-- clean UI/UX  
-- customizing systems  
-- hands-on coding  
-- exploring various tech stacks
+- Minimal design  
+- Clean UI/UX  
+- Customizing systems  
+- Hands-on coding  
+- Exploring different tech stacks
 
-### 📌 Current Focus  
-- strengthening fundamentals  
-- building structured software  
-- improving workflows  
-- learning across stacks
+### Current Focus  
+- Strengthening fundamentals  
+- Building structured software  
+- Improving workflows  
+- Learning across stacks
 
-### 🎯 Long-Term Goals  
-- Master Machine Learning fundamentals  
+### Long-Term Goals  
+- Master machine learning fundamentals  
 - Create ML-powered mini projects  
 - Become fluent across multiple languages  
 - Build clean, scalable software  
@@ -170,8 +176,8 @@ I enjoy:
 
 ---
 
-# 🌐 Connect With Me
-### ✔ All Social Platforms
+# Connect With Me
+### Social Platforms
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/abdullah.ahmod.nabil)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ahmod_abdullah_nabil)
@@ -179,14 +185,14 @@ I enjoy:
 [![Quora](https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white)](https://quora.com/profile/Ahmod-Abdullah-Nabil)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white)](https://reddit.com/user/Ahmod_Abdullah)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahmod-abdullah)
-[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=twitter&logoColor=white)](https://x.com/ahmod_abdullah_)
+[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/ahmod_abdullah_)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:ahmodabdullah876@gmail.com)
 
 ---
 
 <div align="center">
 
-### ✍️ Random Dev Quote  
+### Random Dev Quote  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 </div>
@@ -195,6 +201,6 @@ I enjoy:
 
 <div align="center">
 
-⭐ <strong>Thanks for visiting - always learning, always building.</strong>
+<strong>Thanks for visiting. Always learning, always building.</strong>
 
 </div>
