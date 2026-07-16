@@ -42,34 +42,39 @@ I value clean UI, structured code, and efficient workflows.
 
 # What I'm Doing Right Now
 
-- Strengthening fundamentals  
-- Learning machine learning step by step  
-- Building practical projects  
-- Experimenting with compilers and development setups  
-- Refining UI and UX principles  
-- Improving productivity workflows  
-- Exploring web, ML, and desktop development  
+- Strengthening fundamentals
+- Learning machine learning step by step
+- Building practical projects
+- Experimenting with compilers and development setups
+- Refining UI and UX principles
+- Improving productivity workflows
+- Exploring web, ML, and desktop development
 - Growing through daily coding
 
 ---
 
 # Core Skills & Tools
 
-### Languages  
+### Languages
+
 C · C++ · Python · Java · C# · JavaScript · TypeScript · PHP · HTML · CSS
 
-### Machine Learning  
-Basics of:  
-- PyTorch  
-- TensorFlow  
-- Scikit-Learn  
-- NumPy & Pandas  
+### Machine Learning
+
+Basics of:
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- NumPy & Pandas
 - Data Preprocessing
 
-### Tools  
+### Tools
+
 VS Code · Visual Studio · Git · Docker · MSYS2
 
-### Cloud  
+### Cloud
+
 AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 ---
@@ -122,13 +127,13 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 <div align="center">
 
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=default&hide_border=true" alt="Ahmod Abdullah GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="Ahmod Abdullah GitHub stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://streak-stats.demolab.com/?user=ahmod-abdullah-nabil&theme=default&hide_border=true" alt="Ahmod Abdullah streak stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ahmod-abdullah-nabil&theme=default&hide_border=true&cache_seconds=1800" alt="Ahmod Abdullah streak stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=default&hide_border=true" alt="Ahmod Abdullah top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" alt="Ahmod Abdullah top languages" />
 </a>
 
 </div>
@@ -137,13 +142,15 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 <div align="center">
 
-### GitHub Profile Summary  
+### GitHub Profile Summary
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmod-abdullah-nabil&theme=default" alt="Profile Summary" />
 </p>
 
-### Contribution Activity Graph  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmod-abdullah-nabil&theme=github-compact&hide_border=true)](https://github.com/ahmod-abdullah-nabil)
+### Contribution Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmod-abdullah-nabil&theme=github-compact&hide_border=true&area=true&custom_title=Ahmod%20Abdullah%20Contribution%20Graph)](https://github.com/ahmod-abdullah-nabil)
 
 </div>
 
@@ -154,29 +161,32 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 I'm Ahmod, a developer who learns by doing.  
 I enjoy:
 
-- Minimal design  
-- Clean UI/UX  
-- Customizing systems  
-- Hands-on coding  
+- Minimal design
+- Clean UI/UX
+- Customizing systems
+- Hands-on coding
 - Exploring different tech stacks
 
-### Current Focus  
-- Strengthening fundamentals  
-- Building structured software  
-- Improving workflows  
+### Current Focus
+
+- Strengthening fundamentals
+- Building structured software
+- Improving workflows
 - Learning across stacks
 
-### Long-Term Goals  
-- Master machine learning fundamentals  
-- Create ML-powered mini projects  
-- Become fluent across multiple languages  
-- Build clean, scalable software  
-- Improve daily through constant learning  
+### Long-Term Goals
+
+- Master machine learning fundamentals
+- Create ML-powered mini projects
+- Become fluent across multiple languages
+- Build clean, scalable software
+- Improve daily through constant learning
 - Stay consistent and disciplined
 
 ---
 
 # Connect With Me
+
 ### Social Platforms
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/abdullah.ahmod.nabil)
@@ -192,7 +202,8 @@ I enjoy:
 
 <div align="center">
 
-### Random Dev Quote  
+### Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 </div>
