@@ -127,13 +127,13 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 <div align="center">
 
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="Ahmod Abdullah GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmod-abdullah-nabil&theme=default" alt="Ahmod Abdullah GitHub stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
   <img height="165" src="https://streak-stats.demolab.com?user=ahmod-abdullah-nabil&theme=default&hide_border=true&cache_seconds=1800" alt="Ahmod Abdullah streak stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" alt="Ahmod Abdullah top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmod-abdullah-nabil&theme=default" alt="Ahmod Abdullah top languages" />
 </a>
 
 </div>
