@@ -26,8 +26,8 @@
 
 <br><br>
 
-<strong>Learning by building real projects and improving through practice.</strong><br>
-Clean code, simple design, and strong fundamentals every day.
+<strong>Building practical projects, sharpening fundamentals, and growing through consistent practice.</strong><br>
+Focused on clean code, thoughtful design, and steady long-term improvement.
 
 </div>
 
@@ -35,21 +35,21 @@ Clean code, simple design, and strong fundamentals every day.
 
 # Who I Am
 
-I'm a practical developer who learns through real projects.  
-I value clean UI, structured code, and efficient workflows.
+I'm a project-driven developer who learns by building.  
+I care about clean interfaces, well-structured code, and efficient workflows that scale.
 
 ---
 
 # What I'm Doing Right Now
 
-- Strengthening fundamentals
-- Learning machine learning step by step
-- Building practical projects
-- Experimenting with compilers and development setups
-- Refining UI and UX principles
-- Improving productivity workflows
-- Exploring web, ML, and desktop development
-- Growing through daily coding
+- Strengthening core software engineering fundamentals
+- Studying machine learning step by step
+- Building practical projects that reinforce real skills
+- Exploring compilers, tooling, and development environments
+- Refining UI and UX decisions through hands-on work
+- Improving productivity and engineering workflows
+- Expanding across web, machine learning, and desktop development
+- Growing through consistent daily coding
 
 ---
 
@@ -61,7 +61,7 @@ C · C++ · Python · Java · C# · JavaScript · TypeScript · PHP · HTML · C
 
 ### Machine Learning
 
-Basics of:
+Currently exploring:
 
 - PyTorch
 - TensorFlow
@@ -158,30 +158,30 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 # More About Me
 
-I'm Ahmod, a developer who learns by doing.  
+I'm Ahmod, a developer who prefers learning through execution.  
 I enjoy:
 
-- Minimal design
-- Clean UI/UX
-- Customizing systems
-- Hands-on coding
-- Exploring different tech stacks
+- Minimal, intentional design
+- Clean UI and UX
+- System customization
+- Hands-on problem solving
+- Exploring a wide range of tech stacks
 
 ### Current Focus
 
 - Strengthening fundamentals
-- Building structured software
-- Improving workflows
-- Learning across stacks
+- Building structured, maintainable software
+- Improving workflows and development habits
+- Learning across multiple stacks with depth
 
 ### Long-Term Goals
 
-- Master machine learning fundamentals
-- Create ML-powered mini projects
-- Become fluent across multiple languages
-- Build clean, scalable software
-- Improve daily through constant learning
-- Stay consistent and disciplined
+- Build a strong foundation in machine learning
+- Create practical ML-powered projects
+- Develop fluency across multiple programming languages
+- Build clean, scalable, and dependable software
+- Improve continuously through deliberate practice
+- Stay consistent, disciplined, and curious
 
 ---
 
@@ -212,6 +212,6 @@ I enjoy:
 
 <div align="center">
 
-<strong>Thanks for visiting. Always learning, always building.</strong>
+<strong>Thanks for visiting. Still learning, still building, and always improving.</strong>
 
 </div>
