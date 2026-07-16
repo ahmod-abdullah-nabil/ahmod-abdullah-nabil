@@ -26,8 +26,8 @@
 
 <br><br>
 
-<strong>Building practical projects, sharpening fundamentals, and growing through consistent practice.</strong><br>
-Focused on clean code, thoughtful design, and steady long-term improvement.
+<strong>Developer focused on building reliable software, clean interfaces, and practical systems.</strong><br>
+Project-driven, detail-oriented, and committed to continuous technical growth.
 
 </div>
 
@@ -35,21 +35,17 @@ Focused on clean code, thoughtful design, and steady long-term improvement.
 
 # Who I Am
 
-I'm a project-driven developer who learns by building.  
-I care about clean interfaces, well-structured code, and efficient workflows that scale.
+I build projects to deepen technical skill and turn ideas into dependable software.  
+My focus is on strong fundamentals, clean architecture, and thoughtful user experience.
 
 ---
 
-# What I'm Doing Right Now
+# Current Focus
 
-- Strengthening core software engineering fundamentals
-- Studying machine learning step by step
-- Building practical projects that reinforce real skills
-- Exploring compilers, tooling, and development environments
-- Refining UI and UX decisions through hands-on work
-- Improving productivity and engineering workflows
-- Expanding across web, machine learning, and desktop development
-- Growing through consistent daily coding
+- Strengthening software engineering fundamentals
+- Building practical projects across web, desktop, and machine learning
+- Exploring tooling, compilers, and development environments
+- Improving code quality, workflow efficiency, and UI decisions
 
 ---
 
@@ -156,32 +152,23 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 ---
 
-# More About Me
+# Portfolio Direction
 
-I'm Ahmod, a developer who prefers learning through execution.  
-I enjoy:
+I approach development with a practical mindset: learn fast, build carefully, and improve continuously.
 
-- Minimal, intentional design
-- Clean UI and UX
-- System customization
-- Hands-on problem solving
-- Exploring a wide range of tech stacks
+### Working Style
 
-### Current Focus
+- Clean, maintainable implementation
+- Minimal and purposeful interface design
+- Strong interest in systems, tooling, and customization
+- Hands-on problem solving across different stacks
 
-- Strengthening fundamentals
-- Building structured, maintainable software
-- Improving workflows and development habits
-- Learning across multiple stacks with depth
+### Long-Term Direction
 
-### Long-Term Goals
-
-- Build a strong foundation in machine learning
-- Create practical ML-powered projects
-- Develop fluency across multiple programming languages
-- Build clean, scalable, and dependable software
-- Improve continuously through deliberate practice
-- Stay consistent, disciplined, and curious
+- Build deep machine learning fundamentals
+- Develop production-minded software engineering skills
+- Create practical, well-structured projects
+- Grow into a versatile developer across multiple domains
 
 ---
 
@@ -202,9 +189,9 @@ I enjoy:
 
 <div align="center">
 
-### Random Dev Quote
+### Profile Note
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+<strong>Open to growth-focused opportunities, technical collaboration, and ambitious projects.</strong>
 
 </div>
 
@@ -212,6 +199,6 @@ I enjoy:
 
 <div align="center">
 
-<strong>Thanks for visiting. Still learning, still building, and always improving.</strong>
+<strong>Thanks for visiting.</strong>
 
 </div>
