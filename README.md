@@ -21,6 +21,12 @@ Focused on strong engineering fundamentals, clean implementation, and practical 
   <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<p>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0f766e?style=for-the-badge" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20JavaScript-1d4ed8?style=for-the-badge" alt="C++ and JavaScript" />
+  <img src="https://img.shields.io/badge/Building-Web%20%7C%20Desktop%20%7C%20AI-f59e0b?style=for-the-badge" alt="Web Desktop and AI" />
+</p>
+
 </div>
 
 ---
@@ -44,9 +50,9 @@ My work is shaped by clean structure, strong fundamentals, and thoughtful user e
 # Selected Work
 
 - **ZiWei - The Forbidden City AI Guide** - An immersive AI-powered educational environment that brings the Forbidden City to life through AI-guided conversations, 3D visualization, interactive simulations, and retrieval-grounded historical knowledge. [Live site](https://ziwei.985432.xyz/)
-- **SFML Game Systems Project** - A C++/SFML game project focused on gameplay architecture, interactive rendering, and real-time systems implementation.
-- **CRUD Application Dashboard** - A JavaScript CRUD project focused on application structure, state handling, and clear front-end interaction flows.
-- **Beverage Sales Management System** - A C++ object-oriented systems project centered on domain modeling, maintainable program structure, and implementation clarity.
+- **Siege of the Tiger** - A polished desktop implementation of Tiger Hunting Chess with animated gameplay, audio feedback, save/load support, undo, and an optional AI opponent.
+- **CRUD Application Dashboard** - A PHP/JavaScript student registration CRUD system with a live deployment, Docker-based local development, MySQL integration, and phpMyAdmin support.
+- **Movie Database Management System** - A C++ movie database application built around object-oriented design, binary persistence, scalable data handling, and configurable display modes.
 
 I prefer real project work over isolated exercises. My goal is to produce software that shows clear progress in technical range, design judgment, and execution quality.
 
@@ -98,10 +104,10 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 <div align="center">
 
-### GitHub Profile Summary
+### Featured Repository
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmod-abdullah-nabil&theme=default" alt="Profile Summary" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahmod-abdullah-nabil&repo=ahmod-abdullah-nabil&theme=transparent&hide_border=true" alt="Featured Repository" />
 </p>
 
 ### Contribution Activity Graph
