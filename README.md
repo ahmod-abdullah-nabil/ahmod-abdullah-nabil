@@ -7,7 +7,7 @@
 # Ahmod Abdullah
 
 <strong>Software developer building thoughtful products across web, desktop, and AI-driven experiences.</strong><br>
-Focused on strong engineering fundamentals, clean implementation, and practical work that demonstrates range.
+Focused on strong engineering fundamentals, clean implementation, and practical work with clear product value.
 
 <br>
 
@@ -33,17 +33,17 @@ Focused on strong engineering fundamentals, clean implementation, and practical 
 
 # Profile
 
-I use projects to build real technical depth and turn ideas into dependable software.  
-My work is shaped by clean structure, strong fundamentals, and thoughtful user experience. I am currently seeking software development opportunities, internships, and serious technical collaborations.
+I build software to deepen technical range and turn ideas into dependable products.  
+My work emphasizes clean structure, strong fundamentals, and thoughtful user experience. I am currently seeking software development opportunities, internships, and serious technical collaborations.
 
 ---
 
 # Focus
 
-- Strengthening software engineering fundamentals
-- Building projects across web, desktop, and AI-powered systems
-- Exploring tooling, compilers, and development environments
-- Improving code quality, workflow efficiency, and product thinking
+- Building projects across web, desktop, and AI-assisted systems
+- Deepening software engineering fundamentals through hands-on implementation
+- Exploring developer tooling, compilers, and development environments
+- Improving code quality, workflow efficiency, and product judgment
 
 ---
 
@@ -54,7 +54,7 @@ My work is shaped by clean structure, strong fundamentals, and thoughtful user e
 - **CRUD Application Dashboard** - A PHP/JavaScript student registration CRUD system with a live deployment, Docker-based local development, MySQL integration, and phpMyAdmin support.
 - **Movie Database Management System** - A C++ movie database application built around object-oriented design, binary persistence, scalable data handling, and configurable display modes.
 
-I prefer real project work over isolated exercises. My goal is to produce software that shows clear progress in technical range, design judgment, and execution quality.
+I prioritize real project work over isolated exercises. The goal is to build software that reflects growing technical range, sound judgment, and consistent execution quality.
 
 ---
 
@@ -66,7 +66,7 @@ C · C++ · Python · Java · C# · JavaScript · TypeScript · PHP · HTML · C
 
 ### Machine Learning
 
-Currently exploring:
+Currently exploring practical foundations in:
 
 - PyTorch
 - TensorFlow
@@ -80,7 +80,7 @@ VS Code · Visual Studio · Git · Docker · MSYS2
 
 ### Cloud
 
-AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
+Vercel · Netlify · Docker-based deployment workflows · Exposure to AWS, Azure, Google Cloud, and Oracle Cloud
 
 ---
 
@@ -107,7 +107,7 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 ### Featured Repository
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahmod-abdullah-nabil&repo=ahmod-abdullah-nabil&theme=transparent&hide_border=true" alt="Featured Repository" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ahmod-abdullah-nabil&repo=Siege-of-the-Tiger&theme=transparent&hide_border=true" alt="Featured Repository" />
 </p>
 
 ### Contribution Activity Graph
@@ -120,7 +120,7 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 # Approach
 
-I care about software that is well-structured, practical, and intentional. The work I enjoy most sits at the intersection of engineering depth, strong product thinking, and hands-on building.
+I value software that is well-structured, practical, and intentional. The work I enjoy most combines engineering depth, product thinking, and hands-on execution.
 
 ---
 
