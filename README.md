@@ -50,7 +50,7 @@ My work is shaped by clean structure, strong fundamentals, and thoughtful user e
 # Selected Work
 
 - **ZiWei - The Forbidden City AI Guide** - An immersive AI-powered educational environment that brings the Forbidden City to life through AI-guided conversations, 3D visualization, interactive simulations, and retrieval-grounded historical knowledge. [Live site](https://ziwei.985432.xyz/)
-- **Siege of the Tiger** - A polished desktop implementation of Tiger Hunting Chess with animated gameplay, audio feedback, save/load support, undo, and an optional AI opponent.
+- **Siege of the Tiger** - A polished desktop implementation of Tiger Hunting Chess with animated gameplay, audio feedback, save/load support, undo, and an optional AI opponent. [Repository](https://github.com/ahmod-abdullah-nabil/Siege-of-the-Tiger)
 - **CRUD Application Dashboard** - A PHP/JavaScript student registration CRUD system with a live deployment, Docker-based local development, MySQL integration, and phpMyAdmin support.
 - **Movie Database Management System** - A C++ movie database application built around object-oriented design, binary persistence, scalable data handling, and configurable display modes.
 
