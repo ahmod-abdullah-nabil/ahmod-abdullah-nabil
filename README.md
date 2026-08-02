@@ -6,8 +6,8 @@
 
 # Ahmod Abdullah
 
-<strong>Software developer focused on practical systems, clean implementation, and steady technical growth.</strong><br>
-Building across web, desktop, and machine learning with a strong interest in fundamentals, tooling, and product quality.
+<strong>Software developer building practical projects across web, desktop, and machine learning.</strong><br>
+Focused on strong fundamentals, clean implementation, and growth through real engineering work.
 
 <br>
 
@@ -28,7 +28,7 @@ Building across web, desktop, and machine learning with a strong interest in fun
 # Who I Am
 
 I use projects as a way to build real technical depth and turn ideas into dependable software.  
-My work is guided by strong engineering fundamentals, clean structure, and thoughtful user experience.
+My work is guided by strong engineering fundamentals, clean structure, and thoughtful user experience. I am currently seeking software development opportunities, internships, and meaningful technical collaborations.
 
 ---
 
@@ -43,17 +43,16 @@ My work is guided by strong engineering fundamentals, clean structure, and thoug
 
 # Featured Work
 
-### Practical Software Projects
+### Selected Repositories
 
-Projects built to improve hands-on engineering skill, problem solving, and implementation quality.
-
-- End-to-end development focused on functionality, structure, and maintainability
-- Work spanning user interfaces, application logic, and technical experimentation
-- Ongoing exploration of better architecture, tooling, and development workflow choices
+- **CRUD_PROJECT** - JavaScript-based CRUD application work focused on application structure and practical implementation
+- **Object-Oriented-Beverage-Sales-System-in-C-** - Object-oriented C++ project built around modeling, structure, and program organization
+- **ZiWei - The Forbidden City AI Guide** - An immersive AI-powered educational environment that brings the Forbidden City to life through AI-guided conversations, 3D visualization, interactive simulations, and retrieval-grounded historical knowledge. [Live site](https://ziwei.985432.xyz/)
+- **SFML game project** - A C++ game project built with SFML, centered on gameplay logic, graphics handling, and interactive systems design
 
 ### Learning Through Building
 
-I prefer building real projects over collecting isolated exercises. My goal is to create work that demonstrates progress in software design, technical range, and execution quality.
+I prefer building real projects over collecting isolated exercises. My goal is to create work that shows clear progress in software design, technical range, and execution quality.
 
 ---
 
@@ -131,13 +130,13 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 <div align="center">
 
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmod-abdullah-nabil&theme=default" alt="Ahmod Abdullah GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ahmod Abdullah GitHub stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
   <img height="165" src="https://streak-stats.demolab.com?user=ahmod-abdullah-nabil&theme=default&hide_border=true&cache_seconds=1800" alt="Ahmod Abdullah streak stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmod-abdullah-nabil&theme=default" alt="Ahmod Abdullah top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Ahmod Abdullah top languages" />
 </a>
 
 </div>
@@ -182,16 +181,20 @@ I approach development with a practical mindset: build deliberately, learn conti
 
 # Connect With Me
 
-### Social Platforms
+### Primary Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmod-abdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?logo=github&logoColor=white)](https://github.com/ahmod-abdullah-nabil)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:ahmodabdullah876@gmail.com)
+
+### Additional Links
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/abdullah.ahmod.nabil)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ahmod_abdullah_nabil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmod-abdullah)
 [![Quora](https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white)](https://quora.com/profile/Ahmod-Abdullah-Nabil)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white)](https://reddit.com/user/Ahmod_Abdullah)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahmod-abdullah)
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/ahmod_abdullah_)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:ahmodabdullah876@gmail.com)
 
 ---
 
@@ -199,7 +202,7 @@ I approach development with a practical mindset: build deliberately, learn conti
 
 ### Profile Note
 
-<strong>Open to meaningful collaboration, growth-focused opportunities, and ambitious technical work.</strong>
+<strong>Open to internships, software development opportunities, and ambitious technical collaborations.</strong>
 
 </div>
 
