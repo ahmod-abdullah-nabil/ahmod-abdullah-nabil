@@ -6,13 +6,10 @@
 
 # Ahmod Abdullah
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00A7FF&center=true&vCenter=true&width=650&lines=Developer+•+Builder+•+Always+Learning;Learning+Through+Real+Projects;Turning+Ideas+Into+Clean+Code;Improving+Every+Single+Day" alt="Typing intro" />
+<strong>Software developer focused on practical systems, clean implementation, and steady technical growth.</strong><br>
+Building across web, desktop, and machine learning with a strong interest in fundamentals, tooling, and product quality.
 
 <br>
-
-<img src="https://media.discordapp.net/attachments/1242815075291627634/1439672710690111588/1_wNGxHlTCsH9zU90WDouoDQ.gif?ex=691b5f32&is=691a0db2&hm=d2698a8f2399b7e17a0b3d94cba74f7cf6dbd5fa78de7c66e5dcfb9e18a0791d&=&width=736&height=552" width="350" />
-
-<br><br>
 
 <a href="https://linkedin.com/in/ahmod-abdullah">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,19 +21,14 @@
   <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-<strong>Developer focused on building reliable software, clean interfaces, and practical systems.</strong><br>
-Project-driven, detail-oriented, and committed to continuous technical growth.
-
 </div>
 
 ---
 
 # Who I Am
 
-I build projects to deepen technical skill and turn ideas into dependable software.  
-My focus is on strong fundamentals, clean architecture, and thoughtful user experience.
+I use projects as a way to build real technical depth and turn ideas into dependable software.  
+My work is guided by strong engineering fundamentals, clean structure, and thoughtful user experience.
 
 ---
 
@@ -46,6 +38,22 @@ My focus is on strong fundamentals, clean architecture, and thoughtful user expe
 - Building practical projects across web, desktop, and machine learning
 - Exploring tooling, compilers, and development environments
 - Improving code quality, workflow efficiency, and UI decisions
+
+---
+
+# Featured Work
+
+### Practical Software Projects
+
+Projects built to improve hands-on engineering skill, problem solving, and implementation quality.
+
+- End-to-end development focused on functionality, structure, and maintainability
+- Work spanning user interfaces, application logic, and technical experimentation
+- Ongoing exploration of better architecture, tooling, and development workflow choices
+
+### Learning Through Building
+
+I prefer building real projects over collecting isolated exercises. My goal is to create work that demonstrates progress in software design, technical range, and execution quality.
 
 ---
 
@@ -154,7 +162,7 @@ AWS · Azure · Google Cloud · Vercel · Netlify · Oracle Cloud
 
 # Portfolio Direction
 
-I approach development with a practical mindset: learn fast, build carefully, and improve continuously.
+I approach development with a practical mindset: build deliberately, learn continuously, and raise the quality bar over time.
 
 ### Working Style
 
@@ -191,7 +199,7 @@ I approach development with a practical mindset: learn fast, build carefully, an
 
 ### Profile Note
 
-<strong>Open to growth-focused opportunities, technical collaboration, and ambitious projects.</strong>
+<strong>Open to meaningful collaboration, growth-focused opportunities, and ambitious technical work.</strong>
 
 </div>
 
