@@ -89,13 +89,13 @@ Vercel · Netlify · Docker-based deployment workflows · Exposure to AWS, Azure
 <div align="center">
 
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ahmod-abdullah-nabil&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ahmod Abdullah GitHub stats" />
+  <img height="165" src="assets/stats.svg" alt="Ahmod Abdullah GitHub stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
   <img height="165" src="https://streak-stats.demolab.com?user=ahmod-abdullah-nabil&theme=default&hide_border=true&cache_seconds=1800" alt="Ahmod Abdullah streak stats" />
 </a>
 <a href="https://github.com/ahmod-abdullah-nabil">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmod-abdullah-nabil&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Ahmod Abdullah top languages" />
+  <img height="165" src="assets/top-langs.svg" alt="Ahmod Abdullah top languages" />
 </a>
 
 </div>
@@ -106,13 +106,15 @@ Vercel · Netlify · Docker-based deployment workflows · Exposure to AWS, Azure
 
 ### Featured Repository
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ahmod-abdullah-nabil&repo=Siege-of-the-Tiger&theme=transparent&hide_border=true" alt="Featured Repository" />
-</p>
+> ### 🐯 [Siege of the Tiger](https://github.com/ahmod-abdullah-nabil/Siege-of-the-Tiger)
+>
+> A polished desktop implementation of Tiger Hunting Chess with animated gameplay, audio feedback, save/load support, undo, and an optional AI opponent.
+>
+> **Language:** Java &nbsp;·&nbsp; **Type:** Desktop game
 
 ### Contribution Activity Graph
 
-[![Activity Graph](https://github-act-graph.rodriaum.com/graph?username=ahmod-abdullah-nabil&theme=github-compact&hide_border=true&area=true&custom_title=Ahmod%20Abdullah%20Contribution%20Graph)](https://github.com/ahmod-abdullah-nabil)
+[![Activity Graph](assets/activity-graph.svg)](https://github.com/ahmod-abdullah-nabil)
 
 </div>
 

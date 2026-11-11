@@ -1,0 +1,56 @@
+name: Generate profile cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "README.md"
+      - ".github/workflows/generate-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: assets/stats.svg
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: assets/top-langs.svg
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: assets/activity-graph.svg
+          options: "custom_title=Ahmod%20Abdullah%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top-langs.svg assets/activity-graph.svg
+          git commit -m "Refresh generated profile cards" || exit 0
+          git push
