@@ -28,7 +28,7 @@ jobs:
         with:
           card: stats
           path: assets/stats.svg
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -36,7 +36,7 @@ jobs:
         with:
           card: top-langs
           path: assets/top-langs.svg
-          options: "username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate activity graph
